@@ -130,7 +130,7 @@ Des del compte de l'institut no podem canviar el compte d’usuari a usuari admi
 
 Per crear una unitat compartida el que farem serà anar al google drive i anirem a l’apartat de unitats compartides. Quan estem allí crearem una unitat compartida.
 
-![3cap](cap3.png)
+![3cap](cap3e.png)
 
 Un cop la tenim creada ens sortirà així:
 
@@ -138,7 +138,7 @@ Un cop la tenim creada ens sortirà així:
 
 Ara el que farem serà posar a la gent i podrem triar q volem que sigui cada usuari.
 
-![3cap](cap5.png)
+![3cap](cap5e.png)
 
 Un cop tenim això ja tindrem la nostra unitat compartida creada. 
 
@@ -154,11 +154,11 @@ Anirem a afegir un compte amb google, haurem de posar el correu i la contrasenya
 
 Un cop fet això ens sortirà aquest missatge i ho permetrem.
 
-![3cap](cap8.png)
+![3cap](cap8e.png)
 
 Un cop ho hem permès ens sortirà això, seleccionarem el que volguessin que ens surti al ordenador. En el nostre cas deixarem que ens arribin els correus i que poguessim veure els fitxers que tenim al drive. 
 
-![3cap](cap9.png)
+![3cap](cap9e.png)
 
 ## BACKUP PER PART DE L’ADMINISTRADOR
 
