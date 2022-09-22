@@ -132,4 +132,82 @@ Per crear una unitat compartida el que farem serà anar al google drive i anirem
 
 ![3cap](cap3.png)
 
+Un cop la tenim creada ens sortirà així:
 
+![3cap](cap4.png)
+
+Ara el que farem serà posar a la gent i podrem triar q volem que sigui cada usuari.
+
+![3cap](cap5.png)
+
+Un cop tenim això ja tindrem la nostra unitat compartida creada. 
+
+## INSTAL·LACIÓ D’ADRECES DIRECTES ALS ESCRIPTORIS
+
+Per instal·lar les adreces directes a l'escriptori, el que farem serà anar a paràmetres, un cop allí anirem a l’apartat de comptes en línea i ens sortirà això.
+
+![3cap](cap6.png)
+
+Anirem a afegir un compte amb google, haurem de posar el correu i la contrasenya.
+
+![3cap](cap7.png)
+
+Un cop fet això ens sortirà aquest missatge i ho permetrem.
+
+![3cap](cap8.png)
+
+Un cop ho hem permès ens sortirà això, seleccionarem el que volguessin que ens surti al ordenador. En el nostre cas deixarem que ens arribin els correus i que poguessim veure els fitxers que tenim al drive. 
+
+![3cap](cap9.png)
+
+## BACKUP PER PART DE L’ADMINISTRADOR
+
+Buscarem a Google “Google Takeout” i entrarem al primer enllaç:
+
+![3cap](cap10.png)
+
+A continuació seleccionarem tots els arxius dels quals volem que formen part de la còpia de seguretat:
+
+![3cap](cap11.png)
+
+Quan acabessim de seleccionar tots els arxius un a un, li donarem a següent pas:
+
+![3cap](cap12.png)
+
+Un cop seleccionats els arxius, tirarem el destí d’origen (en el nostre cas Drive), la freqüència i el tipus d’arxiu.
+
+![3cap](cap13.png)
+
+Un cop fet això li donarem al botó ”Crear exportación” i començarà el procés.
+
+![3cap](cap14.png)
+
+Un cop començat el procés ens sortirà aquest missatge.
+
+![3cap](cap15.png)
+
+Per veure on se’ns ha guardat la còpia de seguretat, anirem a “Emmagatzematge” i seguidament entrarem a “Còpies de seguretat” situat a la part superior dreta de la pantalla:
+
+![3cap](cap16.png)
+
+Una vegada fet això, tindrem la còpia de seguretat feta i tindrem l'accés a totes les còpies de seguretat que haguessim fet.
+
+
+## CONSULTAR DOCUMENT PER PART DE L’USUARI
+
+Per consultar un document per part de l’usuari, el que haurem de fer serà, anar al drive i anar a l’apartat d’unitats compartides, un cop dintre, el que farem serà obrir la carpeta que ha creat l’administrador i ja podrem consultar tots els documents que hi han a l’unitat compartida. 
+
+![3cap](cap17.png)
+
+## COMPROVACIÓ ELIMINACIÓ DOCUMENT
+
+Un usuari pot eliminar documents depèn del permís que tingui. Si té el permís com a gestor de continguts, podrà afegir, editar, moure i suprimir documents. 
+En canvi, si té el permís de col·laborador, només podrà afegir i editar documents. 
+Si només té el permís de comentar, només podrà comentar i llegir el document i si té el permís de lector només podrà llegir el document. 
+
+## CONCLUSIONS
+
+
+En conclusió, hem vist que la millor forma per guardar informació són les còpies de seguretat al núvol ja que és més ràpid, pràctic i efectiu,  ja que pots accedir als teus arxius i informació desde qualsevol lloc. Apart no haurem de comprar ni portar damunt discs durs externs per accedir a les nostres dades.
+
+Si volguessim més seguretat el que hauríem de fer sería fer les còpies de seguretat amb hardware i a la vegada al núvol.
