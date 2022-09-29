@@ -19,7 +19,7 @@ sudo apt install apache2
 
 ![1cap](1.png)
 
-- A continuació  mirarem l'estat del Apache amb la següent comanda 
+- A continuació  mirarem l'estat del Apache amb la següent comanda:
 
 ```
 sudo apache2 status
