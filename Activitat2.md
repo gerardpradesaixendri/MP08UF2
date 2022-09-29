@@ -117,14 +117,29 @@ sudo add-apt-repository ppa:ondrej/php"
 ![1cap](18.png)
 ![1cap](19.png)
 
-- Actualitzarem els paquets amb el repositori afegit amb la següent comanda:
-
-"sudo apt update"
-
-![1cap](20.png)
-
 - Instal·larem el PHP y els seus móduls necessaris. Hem de tenir en compte els requisits de Owncloud abans de instal·lar els móduls. Posarem la següent comanda:
 
 "sudo apt install php7.4 libapache2-mod-php7.4 php7.4-common php7.4-mbstring php7.4-xmlrpc php7.4-soap php7.4-apcu php7.4-smbclient php7.4-ldap php7.4-redis php7.4-gd php7.4-xml php7.4-intl php7.4-json php7.4-imagick php7.4-mysql php7.4-cli php7.4-mcrypt php7.4-ldap php7.4-zip php7.4-curl -y
 "
+![1cap](20.png)
+
+- Actualitzarem els paquets amb el repositori afegit amb la següent comanda:
+
+"sudo apt update"
+
 ![1cap](21.png)
+
+- Después de la instal·lació editarem el fitxer php.ini i canviarem alguns valors. Li posarem la següent comanda:
+
+"sudo gedit /etc/php/7.4/apache2/php.ini"
+
+![1cap](22.png)
+
+- Una vegada ens ha entrat al bloc de notes, li canviarem la memória limit de 128 a 256 i guardarem:
+
+![1cap](23.png)
+![1cap](24.png)
+
+## INSTAL·LACIÓ OWNCLOUD
+
+- Descargarem la última versió del programa y descomprimirem els fitxers, ademés mourem els arxius de Owncloud a "/var/www/html/owncloud"
