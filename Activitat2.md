@@ -71,3 +71,50 @@ Una vegada hem posat la comanda ens demanarà la contrasenya del sistema ubuntu 
 - Y per últim reiniciarem el MariaDB amb la següent comanda:
 
 "sudo systemctl restart mariadb.service` o `sudo service mariadb.service restart"
+
+![1cap](12.png)
+
+## CREACIÓ DE LA BASE DE DADES DE OWNCLOUD
+
+- Primer de tot entrarem a MariaDB amb la següent comanda:
+
+"sudo mysql -u root -p"
+
+![1cap](13.png)
+
+- Crearem la base de dades amb la següent comanda:
+
+"CREATE DATABASE owncloud;"
+
+![1cap](14.png)
+
+- A continuació crearem un usuari anomenat ownclouduser amb la contrasenya "Admin1234" amb la següent comanda:
+
+"CREATE USER 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234';"
+
+![1cap](15.png)
+
+- Li donarem accès a la base de dades al usuari amb la següent comanda:
+
+"GRANT ALL ON owncloud.* TO 'ownclouduser'@'localhost' IDENTIFIED BY 'Admin1234' WITH GRANT OPTION;"
+
+![1cap](16.png)
+
+- Aplicarem els canvis i sortirem. Li posarem les següents comandes:
+
+"FLUSH PRIVILEGES;
+EXIT;"
+
+![1cap](17.png)
+
+## INSTAL·LACIÓ PHP AMB ELS SEUS MÓDULS NECESSARIS
+
+- Primer de tot ho instal·larem amb les següents comandes:
+
+"sudo apt-get install software-properties-common -y
+sudo add-apt-repository ppa:ondrej/php"
+
+![1cap](18.png)
+![1cap](19.png)
+
+- 
