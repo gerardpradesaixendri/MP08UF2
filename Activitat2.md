@@ -170,6 +170,24 @@ sudo gedit /etc/php/7.4/apache2/php.ini
 ![1cap](23.png)
 ![1cap](24.png)
 
+- Li canviarem el upload_max_filesize de 2M a 100M:
+
+![1cap](25.png)
+![1cap](26.png)
+
 ## INSTAL·LACIÓ OWNCLOUD
 
 - Descargarem la última versió del programa y descomprimirem els fitxers, ademés mourem els arxius de Owncloud a "/var/www/html/owncloud"
+
+![1cap](27.png)
+![1cap](28.png)
+![1cap](29.png)
+
+- Canviem propietari i permisos dels directoris d'owncloud.
+
+![1cap](30.png)
+![1cap](31.png)
+
+## CONFIGURACIÓ APACHE
+
+- 
