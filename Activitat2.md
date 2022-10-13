@@ -190,4 +190,43 @@ sudo gedit /etc/php/7.4/apache2/php.ini
 
 ## CONFIGURACIÓ APACHE
 
-- 
+- Per configurar Apache posarem la següent comanda i posarem el text que surt a la captura:
+
+![1cap](32.png)
+![1cap](33.png)
+
+- Seguidament habilitarem owncloud i el mòdul rewrite amb aquestes comandes:
+
+```
+
+sudo a2ensite owncloud.conf
+sudo a2enmod rewrite
+sudo a2enmod headers
+sudo a2enmod env
+sudo a2enmod dir
+sudo a2enmod mime
+```
+
+![1cap](34.png)
+
+- A continuació reiniciarem Apache:
+
+```
+sudo Service Apache2 restart
+```
+
+![1cap](35.png)
+
+- Ara entrarem a owncloud:
+
+```
+10.0.2.15/owncloud
+```
+
+![1cap](36.png)
+
+- Seguidament omplirem tot el que ens demana i li donarem les dades de MariaDB:
+
+
+
+
