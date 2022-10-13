@@ -227,6 +227,10 @@ sudo Service Apache2 restart
 
 - Seguidament omplirem tot el que ens demana i li donarem les dades de MariaDB:
 
+![1cap](37.png)
+![1cap](38.png)
+![1cap](39.png)
+
 
 
 
