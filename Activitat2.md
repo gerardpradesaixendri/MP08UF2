@@ -248,16 +248,35 @@ Què signifiquen a Apache les línies de configuració del fitxer owncloud.conf.
 
 ![1cap](42.png)
 
-- Aquesta és el nom d'amfitrió i port que el servidor utilitza per identificar-se .
+- Aquesta és el nom d'amfitrió i port que el servidor utilitza per identificar-se.
+
 ![1cap](43.png)
 
-- La següent és el nom que li posem a la
+- La següent són els noms alternatius per a un host usats per coincidir amb requests per a hosts virtuals.
+
 ![1cap](44.png)
+
+- La següent és el nom del directori owncloud
+
 ![1cap](45.png)
+
+- La següent és el directory owncloud
+
 ![1cap](46.png)
+
+- La següent controla la capacitat del servidor de seguir enllaços simbòlics
+
 ![1cap](47.png)
+
+- La següent permet anul·lar alguns paràmetres d'Apache mitjançant un fitxer . htaccess que podeu col·locar en un directori 
+
 ![1cap](48.png)
+
+- La següent imita la funcionalitat que proporcionaven anteriorment les directives "Permetre a tots" i "Denegar a tots"
+
 ![1cap](49.png)
+
+- La següent apaguem l'autorització i versions distribuïdes basades en web
+
 ![1cap](50.png)
-![1cap](51.png)
-![1cap](52.png)
+
