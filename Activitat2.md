@@ -231,6 +231,33 @@ sudo Service Apache2 restart
 ![1cap](38.png)
 ![1cap](39.png)
 
+- Ja podrem accedir
+
+![1cap](40.png)
 
 
+### Preguntes Activitat 2
 
+Què signifiquen a Apache les línies de configuració del fitxer owncloud.conf.?
+
+- La primera linea estableix l'adreça de contacte que el servidor inclou en els missatges d'error que retorna al client.
+
+![1cap](41.png)
+
+- La segona DocumentRoot és el directori de nivell superior de l'arbre de documents visible des del web
+
+![1cap](42.png)
+
+- Aquesta és el nom d'amfitrió i port que el servidor utilitza per identificar-se .
+![1cap](43.png)
+
+- La següent és el nom que li posem a la
+![1cap](44.png)
+![1cap](45.png)
+![1cap](46.png)
+![1cap](47.png)
+![1cap](48.png)
+![1cap](49.png)
+![1cap](50.png)
+![1cap](51.png)
+![1cap](52.png)
