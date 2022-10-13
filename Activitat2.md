@@ -238,7 +238,7 @@ sudo Service Apache2 restart
 
 ### Preguntes Activitat 2
 
-Què signifiquen a Apache les línies de configuració del fitxer owncloud.conf.?
+#### Què signifiquen a Apache les línies de configuració del fitxer owncloud.conf.?
 
 - La primera linea estableix l'adreça de contacte que el servidor inclou en els missatges d'error que retorna al client.
 
@@ -280,3 +280,14 @@ Què signifiquen a Apache les línies de configuració del fitxer owncloud.conf.
 
 ![1cap](50.png)
 
+#### Què fa la comanda a2ensite?
+
+- Activa el servidor apache2
+
+#### I la comando a2dissite?
+
+- Desactiva el servidor apache2
+
+#### Què significa la línia de /etc/hosts
+
+- El fitxer /etc/hosts conté els noms i adreces d'amfitrió del protocol d'Internet (IP) per a l'amfitrió local i altres amfitrions de la xarxa d'Internet 
