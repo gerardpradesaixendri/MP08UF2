@@ -11,18 +11,27 @@ On fica resposta afegeix una captura de pantalla on es vegi que has fet l'acció
 Per a que pugui accedir necessitarà:
 
 - La MV amb owncloud ha d'estar en mode "adaptador pont".
-- El fitxer /etc/hosts del company ha de tenir la IP de la MV i el nom de domini de la MV del company/a.
+- El fitxer /etc/hosts de µvla MV i el nom de domini de la MV del company/a.
 
 
 **4.1.-** Crea un usuari admin que es digui adminXYZ, on XYZ són les inicials del teu nom:
+
+![imatge](1b.png)
+![imatge](2b.png)
 
 **RESPOSTA**
 
 **4.2.-** Inicia sessió com a l'usuari adminXYZ.
 
+![imatge](3b.png)
+![imatge](4b.png)
+
 **RESPOSTA**
 
 **4.3.-** Crea un usuari XYZ on XYZ son les inicials del company/a i afegeix-lo al grup usuaris, aquest usuari tindrà una quota de 512 MB.
+
+![imatge](5b.png)
+![imatge](6b.png)
 
 **RESPOSTA**
 
@@ -36,9 +45,15 @@ A l'exemple es crea un fitxer de 10MB.
 
 Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
+![imatge](7b.png)
+![imatge](8b.png)
+![imatge](9b.png)
+
 **RESPOSTA**
 
 **4.5.-** Mostra el missatge d'error per haver superat la quota d'usuari.
+
+![imatge](10b.png)
 
 **RESPOSTA**
 
