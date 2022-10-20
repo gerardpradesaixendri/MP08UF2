@@ -99,9 +99,24 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 **4.12.-** Com a usuariXYZ crea una carpeta nova anomenada shared i comparteix-la amb l'usuari usuari2XYZ.
 
+![imatge](22b.png)
+![imatge](23b.png)
+
 **RESPOSTA**
 
 **4.13.-** Entra a Market instal·la dues aplicacions que no estiguin ja instal·lades i explica què fan i com funcionen.
+
+- Contacts: Permet als usuaris sincronitzar i fer còpies de seguretat de les seves llibretes d'adreces amb ownCloud i en diversos dispositius. 
+
+![imatge](24b.png)
+![imatge](25b.png)
+![imatge](26b.png)
+![imatge](27b.png)
+
+- Factor Authentication: Afegeix una altra capa de seguretat d'accés a ownCloud. El mètode d'autenticació confirma la identitat d'un usuari mitjançant una combinació de dos components independents.
+
+![imatge](28b.png)
+![imatge](29b.png)
 
 ![image](https://user-images.githubusercontent.com/110727546/196159706-705ff624-c409-4632-acb4-f43ffcc486d4.png)
 
@@ -110,6 +125,8 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 **RESPOSTA SEGONA APP**
 
 **4.14.-** Crearem una carpeta nova per emmagatzematge a Owncloud, la carpeta serà /media/publicXYZ on XYZ són les teves inicials i apareixerà amb el nom de public als usuaris.
+
+![imatge](30b.png)
 
 Aquesta carpeta haurà de pertànyer a l'usuari www-data.
 
