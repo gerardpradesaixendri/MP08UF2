@@ -88,9 +88,22 @@ administradors.
 **3.4.-** Mostra els següents canvis de paràmetres d'usuari:
 
 #### - Posa't una imatge d'usuari.
+
+![imatge](7c.png)
+![imatge](9c.png)
+
 #### - Afegeix el teu mail de l'Institut.
+
+![imatge](8c.png)
+
 #### - Canvia l'idioma a català.
+
+![imatge](10c.png)
+![imatge](11c.png)
+
 #### - Mostra la versió d'Owncloud instal·lada.
+
+![imatge](12c.png)
 
 **RESPOSTA**
 
