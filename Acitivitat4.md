@@ -63,21 +63,37 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 **4.7.-** Canvia la quota de l'usuari a 1GB i mostra tots els fitxers pujats.
 
+![imatge](11b.png)
+![imatge](12b.png)
+
 **RESPOSTA**
 
 **4.8.-** Crea un usuari anomenat usuari2XYZ i fical al grup usuaris.
+
+![imatge](13b.png)
 
 **RESPOSTA**
 
 **4.9.-** Comparteix un fitxer de usuariXYZ a usuari2XYZ i mostra com l'usuari2XYZ pot veure i descarregar el fitxer.
 
+![imatge](14b.png)
+![imatge](15b.png)
+
 **RESPOSTA**
 
 **4.10.-** Esborra la carpeta Learn more about owncloud.
 
+![imatge](16b.png)
+![imatge](17b.png)
+
 **RESPOSTA**
 
 **4.11.-** Recupera la carpeta Learn more about owncloud.
+
+![imatge](18b.png)
+![imatge](19b.png)
+![imatge](20b.png)
+![imatge](21b.png)
 
 **RESPOSTA**
 
