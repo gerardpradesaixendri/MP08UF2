@@ -48,11 +48,11 @@ administradors.
 
 #### - Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?
 
-- Perquè d'aquesta manera els documents estan guardats a un lloc segur i és molt dificil que se'ns perdin.
+- Perquè emmagatzema tots els documents i correus electrònics directament al núvol. Amb ownCloud i les seves aplicacions de Microsoft integrades, els empleats poden experimentar la productivitat total i la connectivitat perfecta sense arriscar-se a l'accés no autoritzat o a violacions de la protecció de dades, gràcies a un emmagatzematge de dades centralitzat al seu núvol privat.
 
 #### - Això passa a tots els països?
 
-- 
+- No, ja que als estats unit, la llei nord-americana obliga a l'empresa a donar accés a les agències governamentals a les dades dels usuaris de Microsoft a petició i això és un perill per a les dades.
 
 #### - Quina és la llicència d'OWncloud Enterprise?
 
@@ -64,24 +64,27 @@ administradors.
 
 #### - Es poden veure videos en Streaming directament des de Owncloud?
 
-- Sí, desde el seu últim llançament.
+- Sí, desde el seu últim llançamen amb tots els seus plans.
 
+![imatge](13c.png)
 ![imatge](4c.png)
 
 #### - Es poden connectar directoris de Google Drive a Owncloud?
 
 - Sí, és poden connectar els directoris de Google Drive.
 
+![imatge](14c.png)
+
 #### - I Dropbox?
 
 - Sí, també es pot connectar.
+![imatge](14c.png)
 
 #### - Compta Owncloud amb antivirus? En cas afirmatiu com es diu? 
 
-- Sí, a través del protocol ICAP 
+- Sí, és diu ClamAV
 
-![imatge](5c.png)
-![imatge](6c.png)
+![imatge](15c.png)
 
 **RESPOSTA**
 
