@@ -45,14 +45,43 @@ Key in Hardware Security Module
 cap tercer no autoritzat pot accedir
 les dades xifrades, ni tan sols el sistema
 administradors.
-#### - Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?  
+
+#### - Per quina raó ens recomana utilitzar Owncloud per als documents de Microsoft Office de la nostra empresa?
+
+- Perquè d'aquesta manera els documents estan guardats a un lloc segur i és molt dificil que se'ns perdin.
+
 #### - Això passa a tots els països?
+
+- 
+
 #### - Quina és la llicència d'OWncloud Enterprise?
+
+- AGPLv3 (ha de compartir personalitzacions amb la comunitat)
+
 #### - I la d'Owncloud Standard?
+
+- Llicència comercial ownCloud per als mòduls empresarials i empresarials d'ownCloud Server
+
 #### - Es poden veure videos en Streaming directament des de Owncloud?
+
+- Sí, desde el seu últim llançament.
+
+![imatge](4c.png)
+
 #### - Es poden connectar directoris de Google Drive a Owncloud?
+
+- Sí, és poden connectar els directoris de Google Drive.
+
 #### - I Dropbox?
+
+- Sí, també es pot connectar.
+
 #### - Compta Owncloud amb antivirus? En cas afirmatiu com es diu? 
+
+- Sí, a través del protocol ICAP 
+
+![imatge](5c.png)
+![imatge](6c.png)
 
 **RESPOSTA**
 
