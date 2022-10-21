@@ -149,3 +149,9 @@ Aquesta carpeta haurà de pertànyer a l'usuari www-data.
 **RESPOSTA**
 
 **OPCIONAL.-** Aquesta tasca és opcional.
+
+Intenta connectar com a emmagatzematge extern el teu compte de Google Drive de l'Institut. Tens com fer-ho aquí.
+
+**RESPOSTA**
+
+
