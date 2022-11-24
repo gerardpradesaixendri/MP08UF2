@@ -67,3 +67,26 @@ shh gprades@192.168.203.224
 15. Canviarem els permisos
 
 ![1](19.png)
+
+16. Entrarem al directori /home, crearem la carpeta "moodledata" i li donarem permisos.
+
+![1](20.png)
+
+17. Accedirem a la base de dades amb mode root.
+
+![1](21.png)
+
+18. Crearem l'usuari moodlemanager dins de la base de dades.
+
+![1](22.png)
+
+19. Crearem la base de dades de moodle.
+
+![1](23.png)
+
+20. Li donarem permisos a l'usuari.
+
+![1](24.png)
+![1](25.png)
+
+21. 
