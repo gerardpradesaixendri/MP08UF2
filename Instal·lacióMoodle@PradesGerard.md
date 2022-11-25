@@ -34,9 +34,11 @@ shh gprades@192.168.203.224
 
 ![1](10.png)
 
-8. Instal·larem el php
+8. Instal·larem el php7.3. Per fer-ho haurem d'instal·lar diferents coses.
 
 ![1](11.png)
+![1](11.1.png)
+
 
 9. Seguidament editarem el següent fitxer per a que ens mostre index.php enves de index.html.
 
@@ -89,4 +91,9 @@ shh gprades@192.168.203.224
 ![1](24.png)
 ![1](25.png)
 
-21. 
+21. Entrarem al buscador i posarem (la nostra ip)/moodle
+
+![1](26.png)
+![1](27.png)
+
+22. 
